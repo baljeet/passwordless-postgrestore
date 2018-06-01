@@ -8,7 +8,7 @@ Tokens are stored in a PostgreSQL database and are hashed and salted using [bcry
 
 First, install the module:
 
-`$ npm install passwordless-postgrestore --save`
+`$ npm install baljeet/passwordless-postgrestore#master --save`
 
 Afterwards, follow the guide for [Passwordless](https://github.com/florianheinemann/passwordless). A typical implementation may look like this:
 
